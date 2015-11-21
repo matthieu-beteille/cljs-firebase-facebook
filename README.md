@@ -2,7 +2,7 @@
 
 ## Description
 
-Small project showing how to implement a minimal facebook login system using
+Small project implementing a minimal facebook login system using
 ClojureScript (reagent), and Firebase.
 
 ## Configuration
